@@ -1,9 +1,9 @@
 # Rancher Federal Workshop
 
 #### Zack Brady, Field Engineer, Rancher Government Solutions (RGS)
-#### [@zackbradys](https://twitter.com/zackbradys) | zack.brady@rancherfederal.com | https://rancher.com/government
+#### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@rancherfederal.com - https://rancher.com/government
 
-![rancher-long-banner](./images/rancher-long-banner.png)
+![rancher-long-banner](./images/rgs-banner-rounded.png)
 
 ### Welcome to the Rancher Federal hosted Workshop! 
 
